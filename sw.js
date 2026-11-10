@@ -1,4 +1,4 @@
-// MEDICA 2026 出差手冊：離線快取。版本 20261110-141457（每次 build 都會變 → 瀏覽器會自動裝新版）
+// MEDICA 2026 出差手冊：離線快取。版本 20261110-160357（每次 build 都會變 → 瀏覽器會自動裝新版）
 const CACHE = 'medica26';
 const SHELL = ['./', './index.html', './manifest.webmanifest'];
 self.addEventListener('install', e => {
